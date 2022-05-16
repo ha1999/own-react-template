@@ -1,0 +1,8 @@
+- contain all of common component all page.
+- split by per page.
+    - Home 
+        + component-1
+        + component-2
+     - About 
+        + component-1
+        + component-2
